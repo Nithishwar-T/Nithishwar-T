@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nithishwar-T
+- 👋 Hi, I’m Nithishwar-T
 - 👀 I’m interested in Full Stack Development 
 - 🌱 I’m currently learning JAVA and JAVASCRIPT 
 - 📫 You Can Reach with My Social Platform-"https://linktr.ee/Nithishwar_T?utm_source=linktree_admin_share"
