@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Nithishwar-T/Nithishwar-T/assets/your-banner-image-path.png" alt="Nithishwar T Banner" style="border-radius: 10px;" />
-</p>
 
 <h1 align="center">Hi, I'm Nithishwar 👋</h1>
 <p align="center">
